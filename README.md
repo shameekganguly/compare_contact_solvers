@@ -1,4 +1,4 @@
-# Compare compute time for contact solvers
+# Comparison of compute time for contact solvers
 #### Comparison of computation time for contact solvers using Body and Contact-Space coordinates on a Humanoid 4-contact problem.
 
 ### What are Contact Solvers?
